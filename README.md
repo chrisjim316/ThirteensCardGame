@@ -32,11 +32,12 @@ USER INSTRUCTIONS:
 * Run the game on IDEs such as bluejay.
 
 Game Rules:
- *This game uses a 10-card board. 
- *Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q correspond to the point values of 
+* This game uses a 10-card board. 
+* Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q correspond to the point values of 
   1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12.
- *Pairs of cards whose point values add up to 13 are selected and removed.
- *Kings are selected and removed singly. 
+* Pairs of cards whose point values add up to 13 are selected and removed.
+* Kings are selected and removed singly. 
+* Only two cards can be picked and removed at once. 
 
 
 ------------------------------------------------------------------------
