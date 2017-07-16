@@ -12,7 +12,7 @@ PROJECT TITLE: Thirteens Card Game
 
 Last modified: 13th March, 2017
 
-HOW TO START THIS PROJECT: ( Top-Down Development/ Object-Oriented Approach) 
+### HOW TO START THIS PROJECT: ( Top-Down Development/ Object-Oriented Approach) 
 * Create an abstract board class for inheritance
 * Create a Card class and create mutator methods and comparison methods 
 that can be specifically used on Card objects.
@@ -22,16 +22,16 @@ dealt cards and undealt cards, as well as shuffle and deal cards.
 * Lastly, create a driver class to run and start the game by first creating a a ThirteensBoard object. 
        
 
-AUTHORS: 
+### AUTHORS: 
 * Chris Jim (However, I did not contribute to the making of the GUI class and I did not make the game rules) 
 * Randy Rasa
 * Elevens Lab(College Board) optional portion. 
  
 
-USER INSTRUCTIONS:
+### USER INSTRUCTIONS:
 * Run the game on IDEs such as bluejay.
 
-Game Rules:
+### Game Rules:
 * This game uses a 10-card board. 
 * Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q correspond to the point values of 
   1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12.
@@ -39,6 +39,6 @@ Game Rules:
 * Kings are selected and removed singly. 
 * Only two cards can be picked and removed at once. 
 
-
+### [LICENSE](https://github.com/chrisjim316/ThirteensCardGame/blob/master/LICENSE)
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
